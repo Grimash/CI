@@ -24,3 +24,4 @@ Use Java 1.8 instead
 
 test1
 test2
+test3
